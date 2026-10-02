@@ -177,6 +177,9 @@ https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 #EXTINF:-1 tvg-id="GSeries.bn" tvg-name="G-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/B4U_Music.png" group-title="Movie",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="Sandha.bn" tvg-name="Shandha Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/9X_Jalwa.png" group-title="Movie",Shanda Tv
+https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Movie Bangla" group-title="Movie",Movie Bangla
 https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
 
