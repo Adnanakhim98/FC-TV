@@ -144,6 +144,9 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 # ================================
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
+#EXTINF:-1 tvg-id="sonyten1.in" tvg-name="Sony Ten 1" group-title="Sports",Sony Ten 1
+https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="sonyten2.in" tvg-name="Sony Ten 2" group-title="Sports",Sony Ten 2
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 
