@@ -36,6 +36,9 @@ https://tvsen5.aynaott.com/atnbangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Sonar" group-title="Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
+#EXTINF:-1 tvg-id="bijoy.tv" tvg-name="Bijoy TV" group-title="Bangla",Bijoy TV
+https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="channel-s.bd" tvg-name="Channel S" group-title="Bangla",Channel S
 https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
 
@@ -53,9 +56,6 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rajdhani.tv" tvg-name="Rajdhani TV" group-title="Bangla",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-
-#EXTINF:-1 tvg-id="srktv" tvg-name="SRK TV" group-title="Bangla",SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="banglatv.bd" tvg-name="Bangla TV" group-title="Bangla",Bangla TV
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
@@ -77,6 +77,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-id="maasranga.tv" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Maasranga_Television_logo.png" group-title="Bangla",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
+
+#EXTINF:-1 tvg-id="channel16.bd" tvg-name="Channel 16" group-title="Bangla",Channel 16
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="banglavision.bd" tvg-name="Bangla Vision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Bangla_Vision_logo.png" group-title="Bangla",Bangla Vision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
@@ -180,23 +183,20 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sandha.bn" tvg-name="Shandha Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/9X_Jalwa.png" group-title="Movie",Shanda Tv
 https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="Movie Bangla" group-title="Movie",Movie Bangla
+https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
+
 #EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max-2
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/live/max_2_720/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Goldmines" group-title="Movies",Goldmines
-https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
-
 #EXTINF:-1 tvg-name="Goldmines2" group-title="Movies",Goldmines2
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="GOLDMINES ACTION" group-title="Movies",GOLDMINES ACTION
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
-
-#EXTINF:-1 tvg-name="GOLDMINEMOVIES" group-title="Movies",GOLDMINEMOVIES
-https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-name="GOLDMINES BOLLYWOOD" group-title="Movies",GOLDMINES BOLLYWOOD
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
@@ -209,6 +209,9 @@ https://iptvlive.ahmed-bd-org.workers.dev/sananda-tv-1/index.m3u8
 
 #EXTINF:-1 tvg-name="Colors risthey" group-title="Movies",Colors risthey
 https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Cinema" group-title="Movies",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
