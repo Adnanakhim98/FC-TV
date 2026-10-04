@@ -57,6 +57,9 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rajdhani.tv" tvg-name="Rajdhani TV" group-title="Bangla",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
+#EXTINF:-1 tvg-id="srktv" tvg-name="SRK TV" group-title="Bangla",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="banglatv.bd" tvg-name="Bangla TV" group-title="Bangla",Bangla TV
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
@@ -134,6 +137,12 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b8960
 
 #EXTINF:-1 tvg-id="Enter10.in" tvg-name="Enter 10 Bangla" tvg-logo="https://i.postimg.cc/vBHj3r3J/images-fc0d1242765efd4c1494fbfe4ff65c7a-playmist-enter-10-bangla400x400.jpg" group-title="Entertainment",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Entertainment",Star Jalsha
+# ================================
+# Sports
+# ================================
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-id="sonyten1.in" tvg-name="Sony Ten 1" group-title="Sports",Sony Ten 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
