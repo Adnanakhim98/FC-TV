@@ -75,9 +75,6 @@ https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 #EXTINF:-1 tvg-id="mohonatv.bd" tvg-name="Mohona TV" group-title="Bangla",Mohona TV
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
-#EXTINF:-1 tvg-id="green.tv" tvg-name="Green TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/placeholder.svg" group-title="Bangla",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-id="maasranga.tv" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Maasranga_Television_logo.png" group-title="Bangla",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
@@ -147,6 +144,9 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 #EXTINF:-1 tvg-id="sonyten1.in" tvg-name="Sony Ten 1" group-title="Sports",Sony Ten 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
+#EXTINF:-1 tvg-id="sonyten2.in" tvg-name="Sony Ten 2" group-title="Sports",Sony Ten 2
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="sonyten5.in" tvg-name="Sony Ten 5" group-title="Sports",Sony Ten 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
@@ -155,9 +155,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zoom" group-title="Music",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-#EXTINF:-1 tvg-name="Sanggeet Bangla" group-title="Music",Sanggeet Bangla
-https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 
 #EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/9XM_logo.png" group-title="Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
