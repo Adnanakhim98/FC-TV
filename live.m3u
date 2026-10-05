@@ -147,9 +147,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 #EXTINF:-1 tvg-id="sonyten1.in" tvg-name="Sony Ten 1" group-title="Sports",Sony Ten 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="sonyten2.in" tvg-name="Sony Ten 2" group-title="Sports",Sony Ten 2
-https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
-
 #EXTINF:-1 tvg-id="sonyten5.in" tvg-name="Sony Ten 5" group-title="Sports",Sony Ten 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
@@ -203,6 +200,9 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="GOLDMINES ACTION" group-title="Movies",GOLDMINES ACTION
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+
+#EXTINF:-1 tvg-name="GOLDMINEMOVIES" group-title="Movies",GOLDMINEMOVIES
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-name="GOLDMINES BOLLYWOOD" group-title="Movies",GOLDMINES BOLLYWOOD
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
