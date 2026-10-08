@@ -57,6 +57,9 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-id="srktv" tvg-name="SRK TV" group-title="Bangla",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="banglatv.bd" tvg-name="Bangla TV" group-title="Bangla",Bangla TV
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
+
 #EXTINF:-1 tvg-id="etv.bd" tvg-name="ETV" group-title="Bangla",ETV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 
@@ -95,6 +98,12 @@ https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="jamunatv.bd" tvg-name="Jamuna TV" group-title="News",Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+
+#EXTINF:-1 tvg-id="dbcnews.bd" tvg-name="DBC News" group-title="News",DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+
+#EXTINF:-1 tvg-id="ekattor.tv" tvg-name="Ekattor TV" group-title="News",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 
 #EXTINF:-1 tvg-id="news24.bd" tvg-name="News 24" group-title="News",News 24
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
@@ -162,9 +171,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 # ================================
 http://live.balajibroadband.com:3500/live/903.m3u8
 
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" group-title="Documentary",Animal Planet
-https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8
-
 #EXTINF:-1 tvg-id="jalshamovies.in" tvg-name="Jalsha Movie" group-title="Movies",Jalsha Movie
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
@@ -179,6 +185,9 @@ https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max-2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/live/max_2_720/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Goldmines" group-title="Movies",Goldmines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
@@ -207,11 +216,11 @@ https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema" group-title="Movies",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
+#EXTINF:-1 tvg-name="Sony Pix" group-title="Movies",Sony Pix
+# ==================================================
+# ISLAMIC
+# ==================================================
+https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
+
 #EXTINF:-1 tvg-name="Islam TV" group-title="Islamic",Islam TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-
-#EXTINF:-1 tvg-name="Madani TV" group-title="Islamic",Madani TV
-https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
-
-#EXTINF:-1 tvg-name="Iqra Bangla" group-title="Islamic",Iqra Bangla
-https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
