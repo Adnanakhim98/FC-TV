@@ -45,9 +45,6 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 #EXTINF:-1 tvg-id="deshtv.bd" tvg-name="Desh TV" group-title="Bangla",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
-#EXTINF:-1 tvg-id="metv.bd" tvg-name="ME TV" group-title="Bangla",ME TV
-https://iptvbd.live/metv1080/1080.m3u8
-
 #EXTINF:-1 tvg-id="mytv.bd" tvg-name="My TV" group-title="Bangla",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
