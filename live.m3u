@@ -45,6 +45,9 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 #EXTINF:-1 tvg-id="deshtv.bd" tvg-name="Desh TV" group-title="Bangla",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
+#EXTINF:-1 tvg-id="metv.bd" tvg-name="ME TV" group-title="Bangla",ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+
 #EXTINF:-1 tvg-id="mytv.bd" tvg-name="My TV" group-title="Bangla",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
@@ -80,6 +83,9 @@ https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 
 #EXTINF:-1 tvg-name="Channel 52" group-title="Bangla",Channel 52
 https://tvsen6.aynaott.com/channel52/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="GTV" group-title="Bangla",GTV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Amar Bangla" group-title="Bangla",Amar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
@@ -150,9 +156,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Zoom" group-title="Music",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-name="Sanggeet Bangla" group-title="Music",Sanggeet Bangla
-https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
-
 #EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/9XM_logo.png" group-title="Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 
@@ -176,6 +179,9 @@ https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
 #EXTINF:-1 tvg-id="GSeries.bn" tvg-name="G-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/B4U_Music.png" group-title="Movie",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Sandha.bn" tvg-name="Shandha Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/9X_Jalwa.png" group-title="Movie",Shanda Tv
+https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Movie Bangla" group-title="Movie",Movie Bangla
 https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
