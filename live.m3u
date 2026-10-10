@@ -57,6 +57,9 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rajdhani.tv" tvg-name="Rajdhani TV" group-title="Bangla",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
+#EXTINF:-1 tvg-id="srktv" tvg-name="SRK TV" group-title="Bangla",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="banglatv.bd" tvg-name="Bangla TV" group-title="Bangla",Bangla TV
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
@@ -152,6 +155,9 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zoom" group-title="Music",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-name="Sanggeet Bangla" group-title="Music",Sanggeet Bangla
+https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 
 #EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/9XM_logo.png" group-title="Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
