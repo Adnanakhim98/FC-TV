@@ -48,9 +48,6 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-id="mytv.bd" tvg-name="My TV" group-title="Bangla",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
-#EXTINF:-1 tvg-id="nrb.tv" tvg-name="NRB TV" group-title="Bangla",NRB TV
-https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="rajdhani.tv" tvg-name="Rajdhani TV" group-title="Bangla",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
@@ -170,6 +167,12 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ATN Music" group-title="Music",ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Only Music" group-title="Music",Only Music
+# ================================
+#Documentary
+# ================================
+http://live.balajibroadband.com:3500/live/903.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" group-title="Documentary",Animal Planet
 https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8
