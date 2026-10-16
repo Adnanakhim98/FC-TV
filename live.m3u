@@ -33,9 +33,6 @@ https://tvsen5.aynaott.com/atnbangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="bijoy.tv" tvg-name="Bijoy TV" group-title="Bangla",Bijoy TV
 https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="channel-s.bd" tvg-name="Channel S" group-title="Bangla",Channel S
-https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-id="deshtv.bd" tvg-name="Desh TV" group-title="Bangla",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
