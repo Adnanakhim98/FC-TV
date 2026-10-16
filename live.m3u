@@ -12,8 +12,14 @@ https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="Bangla",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
+#EXTINF:-1 tvg-name="RTV" group-title="Bangla",RTV
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+
 #EXTINF:-1 tvg-name="Channel 9" group-title="Bangla",Channel 9
 https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-name="Ekhon TV" group-title="Bangla",Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Channel i" group-title="Bangla",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
@@ -56,6 +62,9 @@ https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 
 #EXTINF:-1 tvg-id="etv.bd" tvg-name="ETV" group-title="Bangla",ETV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
+
+#EXTINF:-1 tvg-id="globaltv.bd" tvg-name="Global TV" group-title="Bangla",Global TV
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 
 #EXTINF:-1 tvg-id="mohonatv.bd" tvg-name="Mohona TV" group-title="Bangla",Mohona TV
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
@@ -134,6 +143,9 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zoom" group-title="Music",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-name="Sanggeet Bangla" group-title="Music",Sanggeet Bangla
+https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 
 #EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/9XM_logo.png" group-title="Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
