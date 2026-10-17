@@ -144,9 +144,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Zoom" group-title="Music",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-name="Sanggeet Bangla" group-title="Music",Sanggeet Bangla
-https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
-
 #EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/9XM_logo.png" group-title="Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 
@@ -155,9 +152,6 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 #EXTINF:-1 tvg-name="8XM" group-title="Music",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ATN Music" group-title="Music",ATN Music
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Only Music" group-title="Music",Only Music
 # ================================
