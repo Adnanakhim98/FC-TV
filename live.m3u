@@ -15,9 +15,6 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-name="Channel 9" group-title="Bangla",Channel 9
 https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-name="Ekhon TV" group-title="Bangla",Ekhon TV
-https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-name="Channel i" group-title="Bangla",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
@@ -56,9 +53,6 @@ https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 
 #EXTINF:-1 tvg-id="etv.bd" tvg-name="ETV" group-title="Bangla",ETV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
-
-#EXTINF:-1 tvg-id="globaltv.bd" tvg-name="Global TV" group-title="Bangla",Global TV
-https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 
 #EXTINF:-1 tvg-id="mohonatv.bd" tvg-name="Mohona TV" group-title="Bangla",Mohona TV
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
@@ -206,6 +200,9 @@ https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-name="Zee Cinema" group-title="Movies",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 #EXTINF:-1 tvg-name="Sony Pix" group-title="Movies",Sony Pix
 # ==================================================
