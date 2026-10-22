@@ -42,6 +42,9 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-id="mytv.bd" tvg-name="My TV" group-title="Bangla",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
+#EXTINF:-1 tvg-id="nrb.tv" tvg-name="NRB TV" group-title="Bangla",NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="rajdhani.tv" tvg-name="Rajdhani TV" group-title="Bangla",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
@@ -105,6 +108,9 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 # ================================
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
+#EXTINF:-1 tvg-id="pogo" tvg-name="Pogo" group-title="Kids",Pogo
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
+
 #EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" group-title="Kids",Discovery Kids
 https://stream.ottplus.live/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
 
@@ -144,9 +150,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Zoom" group-title="Music",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-name="Sanggeet Bangla" group-title="Music",Sanggeet Bangla
-https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
-
 #EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/9XM_logo.png" group-title="Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 
@@ -173,9 +176,6 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Sandha.bn" tvg-name="Shandha Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/9X_Jalwa.png" group-title="Movie",Shanda Tv
 https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Movie Bangla" group-title="Movie",Movie Bangla
-https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
