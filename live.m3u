@@ -39,9 +39,6 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 #EXTINF:-1 tvg-id="deshtv.bd" tvg-name="Desh TV" group-title="Bangla",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
-#EXTINF:-1 tvg-id="metv.bd" tvg-name="ME TV" group-title="Bangla",ME TV
-https://iptvbd.live/metv1080/1080.m3u8
-
 #EXTINF:-1 tvg-id="mytv.bd" tvg-name="My TV" group-title="Bangla",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
@@ -212,9 +209,6 @@ https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-name="Zee Cinema" group-title="Movies",Zee Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 #EXTINF:-1 tvg-name="Sony Pix" group-title="Movies",Sony Pix
 # ==================================================
