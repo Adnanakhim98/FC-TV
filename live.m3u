@@ -42,9 +42,6 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 #EXTINF:-1 tvg-id="deshtv.bd" tvg-name="Desh TV" group-title="Bangla",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
-#EXTINF:-1 tvg-id="metv.bd" tvg-name="ME TV" group-title="Bangla",ME TV
-https://iptvbd.live/metv1080/1080.m3u8
-
 #EXTINF:-1 tvg-id="mytv.bd" tvg-name="My TV" group-title="Bangla",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
@@ -138,6 +135,9 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b8960
 #EXTINF:-1 tvg-id="Enter10.in" tvg-name="Enter 10 Bangla" tvg-logo="https://i.postimg.cc/vBHj3r3J/images-fc0d1242765efd4c1494fbfe4ff65c7a-playmist-enter-10-bangla400x400.jpg" group-title="Entertainment",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Colors Bangla" group-title="Entertainment",Colors Bangla
+http://live.balajibroadband.com:3500/live/1369.m3u8
+
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Entertainment",Star Jalsha
 # ================================
 # Sports
@@ -156,8 +156,14 @@ https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-name="beIN Sports Extra" group-title="Sports",beIN Sports Extra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Sony Ten 1" group-title="Sports",Sony Ten 1
+http://live.balajibroadband.com:3500/live/891.m3u8
+
 #EXTINF:-1 tvg-name="Zoom" group-title="Music",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-name="Sanggeet Bangla" group-title="Music",Sanggeet Bangla
+https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 
 #EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/9XM_logo.png" group-title="Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
@@ -167,6 +173,12 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 #EXTINF:-1 tvg-name="8XM" group-title="Music",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Only Music" group-title="Music",Only Music
+# ================================
+#Documentary
+# ================================
+http://live.balajibroadband.com:3500/live/903.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovies.in" tvg-name="Jalsha Movie" group-title="Movies",Jalsha Movie
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
