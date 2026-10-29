@@ -114,12 +114,6 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 # ================================
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
-#EXTINF:-1 tvg-id="pogo" tvg-name="Pogo" group-title="Kids",Pogo
-https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
-
-#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" group-title="Kids",Discovery Kids
-https://stream.ottplus.live/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
-
 #EXTINF:-1 tvg-name="Rongeen TV" group-title="Kids",Rongeen TV
 # ================================
 # Entertainment
