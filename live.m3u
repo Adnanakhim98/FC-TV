@@ -42,9 +42,6 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 #EXTINF:-1 tvg-id="deshtv.bd" tvg-name="Desh TV" group-title="Bangla",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
-#EXTINF:-1 tvg-id="metv.bd" tvg-name="ME TV" group-title="Bangla",ME TV
-https://iptvbd.live/metv1080/1080.m3u8
-
 #EXTINF:-1 tvg-id="mytv.bd" tvg-name="My TV" group-title="Bangla",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
@@ -114,17 +111,17 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 # ================================
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
+#EXTINF:-1 tvg-id="pogo" tvg-name="Pogo" group-title="Kids",Pogo
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" group-title="Kids",Discovery Kids
+https://stream.ottplus.live/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
+
 #EXTINF:-1 tvg-name="Rongeen TV" group-title="Kids",Rongeen TV
 # ================================
 # Entertainment
 # ================================
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-
-#EXTINF:-1 tvg-id="Zeebangla.in" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/9X_Jalwa.png" group-title="Music",Zee Bangla
-https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
-
-#EXTINF:-1 tvg-id="Zeebangla.in" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/9X_Jalwa.png" group-title="Music",Zee Bangla
-https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 
 #EXTINF:-1 tvg-id="Enter10.in" tvg-name="Enter 10 Bangla" tvg-logo="https://i.postimg.cc/vBHj3r3J/images-fc0d1242765efd4c1494fbfe4ff65c7a-playmist-enter-10-bangla400x400.jpg" group-title="Entertainment",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
