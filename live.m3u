@@ -6,9 +6,6 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Asian TV" group-title="Bangla",Asian TV
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-name="Nagorik TV" group-title="Bangla",Nagorik TV
-https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="NTV" group-title="Bangla",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
@@ -176,9 +173,6 @@ http://live.balajibroadband.com:3500/live/903.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" group-title="Documentary",Animal Planet
 https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8
-
-#EXTINF:-1 tvg-id="jalshamovies.in" tvg-name="Jalsha Movie" group-title="Movies",Jalsha Movie
-https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
 #EXTINF:-1 tvg-id="GSeries.bn" tvg-name="G-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/B4U_Music.png" group-title="Movie",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
