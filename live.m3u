@@ -24,9 +24,6 @@ https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ATN Bangla" group-title="Bangla",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-name="Zee Bangla Sonar" group-title="Bangla",Zee Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
-
 #EXTINF:-1 tvg-id="bijoy.tv" tvg-name="Bijoy TV" group-title="Bangla",Bijoy TV
 https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
 
@@ -203,9 +200,6 @@ https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-name="Zee Cinema" group-title="Movies",Zee Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 #EXTINF:-1 tvg-name="Islam TV" group-title="Islamic",Islam TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
