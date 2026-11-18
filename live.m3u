@@ -126,6 +126,9 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 #EXTINF:-1 tvg-name="beIN Sports Extra" group-title="Sports",beIN Sports Extra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Star Sports 3" group-title="Sports",Star Sports 3
+http://live.balajibroadband.com:3500/live/1389.m3u8
+
 #EXTINF:-1 tvg-name="Sony Ten 1" group-title="Sports",Sony Ten 1
 http://live.balajibroadband.com:3500/live/891.m3u8
 
@@ -149,6 +152,12 @@ http://live.balajibroadband.com:3500/live/903.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" group-title="Documentary",Animal Planet
 https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8
+
+#EXTINF:-1 tvg-name="Wild" group-title="Documentary",Wild
+# ================================
+# Movie
+# ================================
+http://live.balajibroadband.com:3500/live/1332.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovies.in" tvg-name="Jalsha Movie" group-title="Movies",Jalsha Movie
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
