@@ -27,6 +27,9 @@ https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ATN Bangla" group-title="Bangla",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="channel-s.bd" tvg-name="Channel S" group-title="Bangla",Channel S
+https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="deshtv.bd" tvg-name="Desh TV" group-title="Bangla",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
@@ -35,6 +38,9 @@ https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 tvg-id="mytv.bd" tvg-name="My TV" group-title="Bangla",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+
+#EXTINF:-1 tvg-id="nrb.tv" tvg-name="NRB TV" group-title="Bangla",NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rajdhani.tv" tvg-name="Rajdhani TV" group-title="Bangla",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
@@ -74,6 +80,12 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-name="Amar Bangla" group-title="Bangla",Amar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Enter TV" group-title="Bangla",Enter TV
+# ================================
+# News
+# ================================
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="jamunatv.bd" tvg-name="Jamuna TV" group-title="News",Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
