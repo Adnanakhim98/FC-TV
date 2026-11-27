@@ -66,9 +66,6 @@ https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 #EXTINF:-1 tvg-id="maasranga.tv" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Maasranga_Television_logo.png" group-title="Bangla",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
-#EXTINF:-1 tvg-id="channel16.bd" tvg-name="Channel 16" group-title="Bangla",Channel 16
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="banglavision.bd" tvg-name="Bangla Vision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Bangla_Vision_logo.png" group-title="Bangla",Bangla Vision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 
@@ -120,6 +117,9 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b8960
 #EXTINF:-1 tvg-id="Enter10.in" tvg-name="Enter 10 Bangla" tvg-logo="https://i.postimg.cc/vBHj3r3J/images-fc0d1242765efd4c1494fbfe4ff65c7a-playmist-enter-10-bangla400x400.jpg" group-title="Entertainment",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Colors Bangla" group-title="Entertainment",Colors Bangla
+http://live.balajibroadband.com:3500/live/1369.m3u8
+
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Entertainment",Star Jalsha
 # ================================
 # Sports
@@ -131,6 +131,9 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports 3" group-title="Sports",Star Sports 3
 http://live.balajibroadband.com:3500/live/1389.m3u8
+
+#EXTINF:-1 tvg-name="Sony Ten 1" group-title="Sports",Sony Ten 1
+http://live.balajibroadband.com:3500/live/891.m3u8
 
 #EXTINF:-1 tvg-name="Zoom" group-title="Music",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
@@ -152,6 +155,12 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #Documentary
 # ================================
 http://live.balajibroadband.com:3500/live/903.m3u8
+
+#EXTINF:-1 tvg-name="Wild" group-title="Documentary",Wild
+# ================================
+# Movie
+# ================================
+http://live.balajibroadband.com:3500/live/1332.m3u8
 
 #EXTINF:-1 tvg-id="GSeries.bn" tvg-name="G-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/B4U_Music.png" group-title="Movie",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
